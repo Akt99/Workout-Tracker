@@ -6,9 +6,9 @@ import os
 
 
 
-APP_ID = os.environ["NT_APP_ID"]  # "a0082fec"
+APP_ID = os.environ["NT_APP_ID"]  # "a0082XXX"
 
-API_KEY = os.environ["NT_API_KEY"]  # "0139b127310aac1885c4e8af3cea094c    "
+API_KEY = os.environ["NT_API_KEY"]  # "0139b127310aac1885c4e8af3ceXXXX   "
 
 GENDER = "male"
 
